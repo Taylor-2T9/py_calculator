@@ -1,0 +1,6 @@
+white = "#feffff"
+blue = "#38576b"
+light_gray = "#ECEFF1"
+orange = "#FFAB40"
+dark_gray = "#3b3b3b"
+matte_blue= "#37474F"
