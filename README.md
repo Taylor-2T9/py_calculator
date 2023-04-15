@@ -11,3 +11,13 @@ After install Python, you can start the project with this command:
 ```
 py main.py
 ```
+<div align="center">
+  <br/>
+  <br/>
+    <div>
+      <h1>Open Source</h1>
+      <sub>Copyright © 2023 - <a href="https://github.com/taylor-2t9">Taylor de Oliveira</sub></a>
+    </div>
+    <br/>
+    👨‍💻🖥️
+  </div>
